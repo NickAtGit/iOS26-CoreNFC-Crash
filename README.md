@@ -1,6 +1,6 @@
 Bug Report: CoreNFC crash through sole presence of a method
 
-Observe on iPhone 13 Pro Max and 15 Pro Max (iOS26 Beta 1 -> Beta 9)
+Observed on iPhone 13 Pro Max and 15 Pro Max (iOS26 Beta 1 -> Beta 9)
 
 https://developer.apple.com/forums/thread/794160
 
