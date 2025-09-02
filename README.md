@@ -1,3 +1,7 @@
+Bug Report: CoreNFC crash through sole presence of a method
+
+https://developer.apple.com/forums/thread/794160
+
 Steps to reproduce:
 
 1. Check out project.
